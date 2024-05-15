@@ -1,0 +1,11 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    id: Helm Redis-ha
+    url: https://github.com/helm/charts/pull/16824
+    description: Helm chart for High Availability Redis Cache.
+
+  - icon: fa fa-github
+    id: Chef-sudo
+    url: https://supermarket.chef.io/cookbooks/sudo#changelog
+    description: Tested chef sudo cookbooks.
