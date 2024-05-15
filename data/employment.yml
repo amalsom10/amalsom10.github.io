@@ -1,0 +1,49 @@
+name: Employment
+source:
+  - prof: Site Reliability Engineer
+    place: Bangalore, India
+    time: 2020 to Present
+    companylink: https://www.phonepe.com/
+    companyname: PhonePe (A Walmart - Flipkart Company)
+    description: 
+      - des: Developed and implemented cgroup monitoring agents in Mesos slave machines using Golang. Introduced alerting and visualized the metrics using Riemann, Influx and Grafana, which helps in identifying the high resource consumed Docker containers.
+      - des: Modified the Traefik log parsing agent written in Python to support multiple logging formats. This provided more details in the logs and simplified the troubleshooting efforts.
+      - des: Pinpointed the TCP Retransmission issue between two payloads due to internal firewalls and removing the same reduced the latency of the applications.
+      - des: Introduced load balancing in DNS resolvers, because failure of a single resolver might cause potential outages.
+     
+  - prof: Devops Engineer
+    place: Bangalore, India
+    time: 2018 to 2020
+    companylink: https://www.olacabs.com/
+    companyname: Olacabs
+    description: 
+      - des: Architected and designed an in-house cache platform using Kubernetes services like EKS and AKS, Helm, Redis, HaProxy, Gitlab Pipelines to replace the AWS Elasticache Service. This platform helped in saving ~100k dollars per month bills.
+      - des: Implemented a centralized logging platform for Kubernetes workload using Filebeat, Kafka and Graylog.
+      - des: Played a key role in the setup of cloud native architectures (Mesos) of Ola & Foodpanda in AWS & Azure.
+      - des: Structured and Implemented Terraform modules for resource provisioning. The reusable and use case specific nature of the module makes feather extension easier, more flexible and easy provisioning.
+      - des: Made traffic routing more robust with help of multilayer load balancing using tools like kong, haproxy, nginx, etc.
+      - des: Contributed to the server bootstrap and configuration management using Chef, Ansible.
+      - des: Introduced automation tools in Python, Golang.
+      - des: Implemented In-house Release Management by replacing Github-Travis with Gitlab-Jenkins also structured Gitops model for pipelining.
+
+  - prof: System Engineer
+    place: Bangalore, India
+    time: 2017 to 2018
+    companylink: https://www.endurance.com/
+    companyname: Endurance International Group
+    description: 
+      - des: Designed and Implemented a queue based data migration tool to sync data between locations. This tool removed the overhead of manually syncing the data. Written in Python, frontend is PHP.
+      - des: Provide day to day configuration, monitoring and support for specific aspects of systems to standards as applicable.
+      - des: Troubleshooting operating system level/hardware issues, boot freezing, memory crash, high load, performance tuning, security, etc. in live production Linux servers to ensure 99.9% uptime.
+
+  - prof: Jr.System/DC Engineer
+    place: Kerala, India
+    time: 2016 to 2017
+    companylink: https://www.hostdime.in/
+    companyname: Hostdime Data Center Service
+    description: 
+      - des: Configure, troubleshooting and maintenance of network services, DNS, HTTP, FTP, NFS, SMB, SMTP, SSH, NTP, etc. using log files and tweak settings.
+      - des: Ensure network stability in Switches, Router, Hub, ISP in Datacenter.
+      - des: Maintenances and setup of bare metal servers in data center based on the requirement.
+      - des: Collaborated with the Openstack implementation team in data center.
+      - des: Managing Linux / Apache / MySQL / Php web application stack.
