@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://amalsoman.com/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://amalsoman.com/categories/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/resume/</loc>
+    <loc>https://amalsoman.com/tags/resume/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://amalsoman.com/tags/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vitae/</loc>
+    <loc>https://amalsoman.com/tags/vitae/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/vitae/</loc>
+    <loc>https://amalsoman.com/categories/vitae/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/vitae/</loc>
+    <loc>https://amalsoman.com/vitae/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
+    <loc>https://amalsoman.com/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
+    <loc>https://amalsoman.com/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://amalsoman.com/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://amalsoman.com/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/creating-a-new-theme/</loc>
+    <loc>https://amalsoman.com/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/goisforlovers/</loc>
+    <loc>https://amalsoman.com/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
+    <loc>https://amalsoman.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
+    <loc>https://amalsoman.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hugoisforlovers/</loc>
+    <loc>https://amalsoman.com/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://amalsoman.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://amalsoman.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/golang/</loc>
+    <loc>https://amalsoman.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://amalsoman.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/templates/</loc>
+    <loc>https://amalsoman.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://amalsoman.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/migrate-from-jekyll/</loc>
+    <loc>https://amalsoman.com/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
